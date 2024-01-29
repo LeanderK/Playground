@@ -1,2 +1,2 @@
 # Personal Notes
-just some small experiments
+just some small experiments and notes
